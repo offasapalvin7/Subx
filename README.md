@@ -2,7 +2,7 @@
  Here is a shell script that can be used to check for subdomain takeover vulnerabilities using the "can-i-take-over-xyz" service
 
 
-![](https://www.canva.com/design/DAFWtMb3wW8/xwRdYCGpHW77gsR2056mzQ/watch?utm_content=DAFWtMb3wW8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Blue Tosca Modern Game Logo](https://user-images.githubusercontent.com/121487559/210567835-b5f26412-6915-4683-92e0-82bf78a8d841.gif)
 
 
 ![image](https://user-images.githubusercontent.com/121487559/210565680-7c03539d-03ce-4148-b8bf-ba888cb81bee.png)
