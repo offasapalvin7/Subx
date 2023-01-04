@@ -2,6 +2,9 @@
  Here is a shell script that can be used to check for subdomain takeover vulnerabilities using the "can-i-take-over-xyz" service
 
 
+![](https://www.canva.com/design/DAFWtMb3wW8/xwRdYCGpHW77gsR2056mzQ/watch?utm_content=DAFWtMb3wW8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+
 ![image](https://user-images.githubusercontent.com/121487559/210565680-7c03539d-03ce-4148-b8bf-ba888cb81bee.png)
 
 This will check the "can-i-take-over-xyz" service for takeover vulnerabilities on the specified subdomain. The script will output a message indicating whether the subdomain is potentially vulnerable to takeover, along with a list of any matching fingerprints. If there is an error checking the subdomain, the script will output an error message with the HTTP status code.
